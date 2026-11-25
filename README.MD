@@ -1,2 +1,3 @@
-"# java-ia - projetos do bootcamp da dio+itau" 
-"## Dia 1" 
+# java-ia - projetos do bootcamp da dio+itau
+
+## Dia 1
